@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[443],{6468:function(e,n,t){t.r(n),t.d(n,{default:function(){return p}});var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("presentacion"),t("sede"),t("contacto")],1)},u=[],o=t(7815),r=t(8976),s=t(8231),a={name:"AboutView",components:{Presentacion:o.Z,Sede:r.Z,Contacto:s.Z}},l=a,i=t(1001),f=(0,i.Z)(l,c,u,!1,null,null,null),p=f.exports}}]);
+//# sourceMappingURL=about.a2c2b7d0.js.map
